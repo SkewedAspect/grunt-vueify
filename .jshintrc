@@ -1,0 +1,10 @@
+{
+  "esversion": 6,
+  "immed": true,
+  "node": true,
+  "loopfunc": true,
+  "shadow": "outer",
+  "trailing": true,
+  "undef": true,
+  "unused": true
+}

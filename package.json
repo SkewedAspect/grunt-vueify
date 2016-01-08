@@ -1,0 +1,45 @@
+{
+  "name": "toptron",
+  "version": "0.0.0",
+  "description": "A simple graphical `top` workalike using Electron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:whitelynx/toptron.git"
+  },
+  "keywords": [
+    "top",
+    "electron"
+  ],
+  "author": "David H. Bronke <dbronke@armt.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/whitelynx/toptron/issues"
+  },
+  "devDependencies": {
+    "babel-core": "^6.4.0",
+    "babel-plugin-transform-runtime": "^6.3.13",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-runtime": "^5.8.34",
+    "chalk": "^1.1.1",
+    "grunt": "^0.4.5",
+    "grunt-babel": "^6.0.0",
+    "grunt-contrib-clean": "^0.7.0",
+    "grunt-contrib-copy": "^0.8.2",
+    "vue-hot-reload-api": "^1.2.2",
+    "vueify": "^8.3.0",
+    "vueify-insert-css": "^1.0.0"
+  },
+  "dependencies": {
+    "babel-register": "^6.3.13",
+    "bluebird": "^3.1.1",
+    "electron-prebuilt": "^0.36.0",
+    "glob": "^6.0.3",
+    "less": "^2.5.3",
+    "lodash": "^3.10.1",
+    "vue": "^1.0.13"
+  }
+}

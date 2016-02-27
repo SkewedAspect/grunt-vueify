@@ -1,9 +1,9 @@
 {
   "name": "grunt-vueify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Translate `.vue` files to pure JavaScript, without using Browserify.",
   "files": [
-	  "tasks"
+    "tasks"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

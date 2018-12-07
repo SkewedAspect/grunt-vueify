@@ -15,7 +15,7 @@ Installation
 ------------
 
 ```bash
-npm install --save-dev grunt-vueify
+npm install --save-dev vueify grunt-vueify
 ```
 
 

@@ -1,6 +1,6 @@
 {
   "name": "grunt-vueify",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Translate `.vue` files to pure JavaScript, without using Browserify.",
   "files": [
     "tasks"
